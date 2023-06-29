@@ -58,7 +58,7 @@ Please make sure to have the following Python modules installed, most of which s
 
 ## Acknowledgments  
 
-* | ![](<euflag.png>) | EC has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 861137. K.E. acknowledges that this project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754362. |
+* | ![](<euflag.png>) | EC has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 861137. KE acknowledges that this project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754362. |
   |----------|----------|
 * | GC acknowledges the support of the Lagrange Mathematics and Computing Research Center. |
   |----------|
