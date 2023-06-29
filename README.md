@@ -49,7 +49,7 @@ Please make sure to have the following Python modules installed, most of which s
     ```
     The parameters of the function are:
     
-    * `NUs`: Weights of the sample images.
+    * `NUs`: Sample images.
     * `maxit`: Maximal amount of iterations allowed.
     * `tau`: Douglas-Rachford Splitting step-size.
     
