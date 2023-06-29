@@ -43,7 +43,7 @@ Please make sure to have the following Python modules installed, most of which s
     
     **Note**: The function can be adapted to compute 1d _horizontal selections_ of Wasserstein medians modifying `mean_of_quantiles` in a suitable way.
 
-* **Douglas--Rachford** Splitting method to compute Wasserstein medians between **images**, see:
+* **Douglas-Rachford** Splitting method to compute Wasserstein medians between **images**, see:
     ```python
      douglas_rachford_medians(NUs, maxit, tau)
     ```
@@ -51,7 +51,7 @@ Please make sure to have the following Python modules installed, most of which s
     
     * `NUs`: Weights of the sample images.
     * `maxit`: Maximal amount of iterations allowed.
-    * `tau`: Douglas--Rachford Splitting step-size.
+    * `tau`: Douglas-Rachford Splitting step-size.
     
     **Note**: return `nu_0` to get a Wasserstein median.
 
@@ -60,7 +60,7 @@ Please make sure to have the following Python modules installed, most of which s
 
 * | ![](<euflag.png>) | EC has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 861137. K.E. acknowledges that this project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754362. |
   |----------|----------|
-* | G.C. acknowledges the support of the Lagrange Mathematics and Computing Research Center. |
+* | GC acknowledges the support of the Lagrange Mathematics and Computing Research Center. |
   |----------|
 * The dataset used to generate Figure 1 has been downloaded from https://tfl.gov.uk/info-for/open-data-users/. Powered by TfL Open Data. Contains OS data © Crown copyright and database rights 2016.
 * All other data used for numerical experiments in this project have been created artificially by the authors.
