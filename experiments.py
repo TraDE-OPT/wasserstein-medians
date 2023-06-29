@@ -23,8 +23,7 @@
 #    You should have received a copy of the GNU General Public License
 #    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
-This file contains the functions we used to approximate Wasserstein medians.
-For details and references, see Section 7 in:
+This file contains the functions we used to generate the images in:
 
 G. Carlier, E. Chenchene, K. Eichinger.
 Wasserstein medians: robustness, PDE characterization and numerics,
