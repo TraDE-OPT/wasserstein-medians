@@ -103,12 +103,6 @@ def make_C(Xs, expn):
         return np.sum(np.square(Xs[:, :, np.newaxis] - Xs.T[np.newaxis, :, :]),
                       axis=1)
 
-    # # return np.linalg.norm(Xs[..., np.newaxis] - Xs.T[np.newaxis, ...],
-    # #                       axis=1) ** expn
-
-    # return np.linalg.norm(Xs[:, :, np.newaxis] - Xs.T[np.newaxis, :, :],
-    #                       axis=1) ** expn
-
 
 def from_sample_to_cdf(NUs):
 
