@@ -2,7 +2,7 @@
 #
 #    Copyright (C) 2023 Guillaume Carlier (carlier@ceremade.dauphine.fr)
 #                       Enis Chenchene (enis.chenchene@uni-graz.at)
-#                       Katharina Eichinger (eichinger@ceremade.dauphine.fr)
+#                       Katharina Eichinger (katharina.eichinger@polytechnique.edu)
 #
 #    This file is part of the example code repository for the paper:
 #
