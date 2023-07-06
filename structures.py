@@ -8,7 +8,7 @@
 #
 #      G. Carlier, E. Chenchene, K. Eichinger.
 #      Wasserstein medians: robustness, PDE characterization and numerics,
-#      2023. DOI: xx.xxxxx/arXiv.xxxx.yyyyy
+#      2023. DOI: 10.48550/arXiv.2307.01765
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -27,7 +27,7 @@ This file contains useful functions to reproduce the figures in:
 
 G. Carlier, E. Chenchene, K. Eichinger.
 Wasserstein medians: robustness, PDE characterization and numerics,
-2023. DOI: xx.xxxxx/arXiv.xxxx.yyyyy.
+2023. DOI: 10.48550/arXiv.2307.01765.
 """
 
 import numpy as np

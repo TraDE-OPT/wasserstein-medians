@@ -8,7 +8,7 @@
 #
 #      G. Carlier, E. Chenchene, K. Eichinger.
 #      Wasserstein medians: robustness, PDE characterization and numerics,
-#      2023. DOI: xx.xxxxx/arXiv.xxxx.yyyyy
+#      2023. DOI: 10.48550/arXiv.2307.01765
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -27,7 +27,7 @@ Run this script to reproduce all the figures contained in:
 
 G. Carlier, E. Chenchene, K. Eichinger.
 Wasserstein medians: robustness, PDE characterization and numerics,
-2023. DOI: xx.xxxxx/arXiv.xxxx.yyyyy.
+2023. DOI: 10.48550/arXiv.2307.01765.
 """
 
 import pathlib
@@ -55,7 +55,7 @@ if __name__ == "__main__":
     exps.compare_h_medians()
 
     # medians computed with DRS: consider reducing the dimension or the maximum
-    # amount of iterations to get the results faster.
+    # number of iterations to get the results faster.
     print("\n\n*** Reproducing Figure 6.\n")
 
     exps.drs_with_flows()
