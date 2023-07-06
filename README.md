@@ -2,7 +2,7 @@
 
 This repository contains the experimental source code to reproduce the numerical experiments in:
 
-* G. Carlier, E. Chenchene, K. Eichinger. Wasserstein medians: robustness, PDE characterization and numerics, 2023. [ArXiv preprint](https://arxiv.org/abs/xxxx.yyyyy)
+* G. Carlier, E. Chenchene, K. Eichinger. Wasserstein medians: robustness, PDE characterization and numerics, 2023. [ArXiv preprint](https://arxiv.org/abs/2307.01765)
 
 To reproduce the results of the numerical experiments in Section 5, run:
 ```bash
@@ -14,7 +14,7 @@ If you find this code useful, please cite the above-mentioned paper:
 @article{cce2023,
   author = {Carlier, Guillaume and Chenchene, Enis and Eichinger, Katharina},
   title = {Wasserstein medians: robustness, {PDE} characterization and numerics},
-  pages = {xxxx.yyyyy},
+  pages = {2307.01765},
   journal = {ArXiv},
   year = {2023}
 }
